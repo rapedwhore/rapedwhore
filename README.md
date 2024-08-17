@@ -1,6 +1,20 @@
+## Hi, I'm Maxim 👋
 
-<div id="header" align="center">
-<h3>Backend delveloper from Russia</h3>
-<br>
-I also do some bots and games.
-</div>
+### About Me
+
+I'm a 22-year-old **Backend Developer** from Russia. I mainly work with:
+
+- **Python** and **Django**
+
+I also have basic knowledge of front-end technologies like:
+
+- HTML, CSS, and JavaScript
+
+My freetime passion:
+
+- bots, games
+
+Outside of coding, I enjoy:
+
+- 🎵 Listening to and exploring music
+- 🌍 Learning new languages
