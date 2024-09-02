@@ -2,17 +2,17 @@
 
 ### About Me
 
-I'm a 22-year-old **Backend Developer** from Russia. I mainly work with:
+I'm a 22 year old **Backend Developer** from Russia. I mainly work with:
 
 - **Python** and **Django**
 
-I also have basic knowledge of front-end technologies like:
+I also have basic knowledge of frontend technologies like:
 
 - HTML, CSS, and JavaScript
 
 My freetime passion:
 
-- bots, games
+- programming bots, game creation
 
 Outside of coding, I enjoy:
 
