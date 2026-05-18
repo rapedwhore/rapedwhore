@@ -2,7 +2,7 @@
 
 ### About Me
 
-I'm a 23 year old **Backend Developer** from Russia. I mainly work with:
+I'm a 25 year old **Backend Developer** from Russia. I mainly work with:
 
 - **Python** and **Django**
 
